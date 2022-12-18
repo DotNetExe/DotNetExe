@@ -1,5 +1,5 @@
 # 💫 About Me:
-23 year old Junior Software Developer & QA - Engineer from Do, Germany.
+23 year old Junior Software Developer & QA - Engineer for automated test systems in Do, Germany.
 
 
 # 💻 Tech Stack:
