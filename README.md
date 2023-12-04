@@ -1,5 +1,5 @@
 # 💫 About Me:
-23 || Junior Software Developer and QA-Automation Engineer for Web & Mobile Technologies
+24 || Junior Software Developer and QA-Automation Engineer for Web & Mobile Technologies
 
 
 # 💻 Tech Stack:
